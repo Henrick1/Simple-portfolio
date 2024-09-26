@@ -1,0 +1,84 @@
+.introduction {
+  height: 100vh;
+  max-width: 100vw;
+  box-sizing: border-box;
+  background: linear-gradient(60deg, #62bfed, #3590f3);
+  padding: 5%;
+}
+
+.projects {
+  height: 100%;
+  max-width: 100vw;
+  box-sizing: border-box;
+  background: linear-gradient(130deg, #62bfed, #8fb8ed);
+  padding: 5%;
+}
+
+.footer {
+  height: 100%;
+  max-width: 100vw;
+  box-sizing: border-box;
+  background: linear-gradient(130deg, #62bfed, #8fb8ed);
+  padding: 5%;
+}
+
+.singleProject {
+  display: flex;
+  align-items: center;
+  margin-bottom: 5%;
+  width: 100%;
+}
+
+.nameTitle {
+  font-size: 3em;
+  color: white;
+}
+
+.projectTitle {
+  margin-top: 1.5%;
+  margin-bottom: 8%;
+  font-size: 2em;
+  color: white;
+}
+
+.selfDescription {
+  margin-top: 2.5%;
+  font-size: 1.2em;
+  color: white;
+}
+
+.projectImg {
+  border: 5px solid white;
+  border-radius: 5px;
+  width: 40%;
+  height: auto;
+}
+
+.projectDesc {
+  margin-left: 5%;
+  margin-bottom: 3%;
+  font-size: 1.5em;
+  color: white;
+  flex: 1;
+}
+
+.projectDesc2 {
+  margin-left: 5%;
+  margin-bottom: 3%;
+  font-size: 2.5em;
+  color: white;
+  flex: 1;
+}
+
+.dmDesc {
+  margin-left: 5%;
+  margin-bottom: 3%;
+  font-size: 1.3em;
+  color: white;
+  flex: 1;
+}
+
+.projectLink {
+  margin-left: 5%;
+  color: white;
+}
